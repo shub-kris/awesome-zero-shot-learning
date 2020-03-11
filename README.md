@@ -39,7 +39,7 @@
   Papers
 </h3>
   
-<h4><a id="user-content-neurips-2019" class="anchor" aria-hidden="true" href="#neurips-2019"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path>
+<h4><a id="user-content-cvpr-2019" class="anchor" aria-hidden="true" href="#neurips-2019"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path>
   </svg>
   </a>
   CVPR 2019
@@ -73,9 +73,96 @@
  <li> Yaojie Liu, Joel Stehouwer, Amin Jourabloo, Xiaoming Liu. "Deep Tree Learning for Zero-Shot Face Anti-Spoofing" 
   <a href="http://openaccess.thecvf.com/content_CVPR_2019/papers/Liu_Deep_Tree_Learning_for_Zero-Shot_Face_Anti-Spoofing_CVPR_2019_paper.pdf" rel="nofollow">[pdf]</a></li>
   
+  <li> Jingjing Li, Mengmeng Jing, Ke Lu, Zhengming Ding, Lei Zhu, Zi Huang. "Leveraging the Invariant Side of Generative Zero-Shot Learning" 
+  <a href="http://openaccess.thecvf.com/content_CVPR_2019/papers/Li_Leveraging_the_Invariant_Side_of_Generative_Zero-Shot_Learning_CVPR_2019_paper.pdf" rel="nofollow">[pdf]</a></li>
+  
+ <li> Sounak Dey, Pau Riba, Anjan Dutta, Josep Llados, Yi-Zhe Song. "Doodle to Search: Practical Zero-Shot Sketch-Based Image Retrieval" 
+  <a href="http://openaccess.thecvf.com/content_CVPR_2019/papers/Dey_Doodle_to_Search_Practical_Zero-Shot_Sketch-Based_Image_Retrieval_CVPR_2019_paper.pdf" rel="nofollow">[pdf]</a></li>
+  
+ <li> Sounak Dey, Pau Riba, Anjan Dutta, Josep Llados, Yi-Zhe Song. "Doodle to Search: Practical Zero-Shot Sketch-Based Image Retrieval" 
+  <a href="http://openaccess.thecvf.com/content_CVPR_2019/papers/Dey_Doodle_to_Search_Practical_Zero-Shot_Sketch-Based_Image_Retrieval_CVPR_2019_paper.pdf" rel="nofollow">[pdf]</a></li>
+  
+  <li> Guo-Sen Xie, Li Liu, Xiaobo Jin, Fan Zhu, Zheng Zhang, Jie Qin, Yazhou Yao, Ling Shao. "Attentive Region Embedding Network for Zero-Shot Learning" 
+  <a href="http://openaccess.thecvf.com/content_CVPR_2019/papers/Xie_Attentive_Region_Embedding_Network_for_Zero-Shot_Learning_CVPR_2019_paper.pdf" rel="nofollow">[pdf]</a></li>
+  
+  <li> Devraj Mandal, Sanath Narayan, Sai Kumar Dwivedi, Vikram Gupta, Shuaib Ahmed, Fahad Shahbaz Khan, Ling Shao. "Out-Of-Distribution Detection for Generalized Zero-Shot Action Recognition" 
+  <a href="http://openaccess.thecvf.com/content_CVPR_2019/papers/Mandal_Out-Of-Distribution_Detection_for_Generalized_Zero-Shot_Action_Recognition_CVPR_2019_paper.pdf" rel="nofollow">[pdf]</a></li>
+  
+  <li> He Huang, Changhu Wang, Philip S. Yu, Chang-Dong Wang. "Generative Dual Adversarial Network for Generalized Zero-Shot Learning" 
+  <a href="http://openaccess.thecvf.com/content_CVPR_2019/papers/Huang_Generative_Dual_Adversarial_Network_for_Generalized_Zero-Shot_Learning_CVPR_2019_paper.pdf" rel="nofollow">[pdf]</a></li>
+  
+  <li> Binghui Chen, Weihong Deng. "Hybrid-Attention Based Decoupled Metric Learning for Zero-Shot Image Retrieval" 
+  <a href="http://openaccess.thecvf.com/content_CVPR_2019/papers/Chen_Hybrid-Attention_Based_Decoupled_Metric_Learning_for_Zero-Shot_Image_Retrieval_CVPR_2019_paper.pdf" rel="nofollow">[pdf]</a></li>
+  
+  <li> Akanksha Paul, Narayanan C. Krishnan, Prateek Munjal. "Semantically Aligned Bias Reducing Zero Shot Learning" 
+  <a href="http://openaccess.thecvf.com/content_CVPR_2019/papers/Paul_Semantically_Aligned_Bias_Reducing_Zero_Shot_Learning_CVPR_2019_paper.pdf" rel="nofollow">[pdf]</a></li>
+  
+  <li> Jin Li, Xuguang Lan, Yang Liu, Le Wang, Nanning Zheng. "Compressing Unknown Images With Product Quantizer for Efficient Zero-Shot Classification" 
+  <a href="http://openaccess.thecvf.com/content_CVPR_2019/papers/Li_Compressing_Unknown_Images_With_Product_Quantizer_for_Efficient_Zero-Shot_Classification_CVPR_2019_paper.pdf" rel="nofollow">[pdf]</a></li>
+  
+  
+
+  
  </ul> 
+ 
+ <h4><a id="user-content-iccv-2019" class="anchor" aria-hidden="true" href="#iccv-2019"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path>
+  </svg>
+  </a>
+  ICCV 2019
+</h4>
+
+<ul>
+<li> Senthil Purushwalkam, Maximilian Nickel, Abhinav Gupta, Marc'Aurelio Ranzato. "Task-Driven Modular Networks for Zero-Shot Compositional Learning" 
+  <a href="http://openaccess.thecvf.com/content_ICCV_2019/papers/Purushwalkam_Task-Driven_Modular_Networks_for_Zero-Shot_Compositional_Learning_ICCV_2019_paper.pdf" rel="nofollow">[pdf]</a></li>
   
+  <li> Qi Dong, Shaogang Gong, Xiatian Zhu. "Person Search by Text Attribute Query As Zero-Shot Learning" 
+  <a href="http://openaccess.thecvf.com/content_ICCV_2019/papers/Dong_Person_Search_by_Text_Attribute_Query_As_Zero-Shot_Learning_ICCV_2019_paper.pdf" rel="nofollow">[pdf]</a></li>
   
+   <li> Mohamed Elhoseiny, Mohamed Elfeki. "Creativity Inspired Zero-Shot Learning" 
+  <a href="http://openaccess.thecvf.com/content_ICCV_2019/papers/Elhoseiny_Creativity_Inspired_Zero-Shot_Learning_ICCV_2019_paper.pdf" rel="nofollow">[pdf]</a></li>
+  
+  <li> Fadime Sener, Angela Yao. "Zero-Shot Anticipation for Instructional Activities" 
+  <a href=http://openaccess.thecvf.com/content_ICCV_2019/papers/Sener_Zero-Shot_Anticipation_for_Instructional_Activities_ICCV_2019_paper.pdf" rel="nofollow">[pdf]</a></li>
+  
+  <li> Huajie Jiang, Ruiping Wang, Shiguang Shan, Xilin Chen. "Transferable Contrastive Network for Generalized Zero-Shot Learning" 
+  <a href="http://openaccess.thecvf.com/content_ICCV_2019/papers/Jiang_Transferable_Contrastive_Network_for_Generalized_Zero-Shot_Learning_ICCV_2019_paper.pdf" rel="nofollow">[pdf]</a></li>
+  
+  <li> Qing Liu, Lingxi Xie, Huiyu Wang, Alan L. Yuille. "Semantic-Aware Knowledge Preservation for Zero-Shot Sketch-Based Image Retrieval" 
+  <a href="http://openaccess.thecvf.com/content_ICCV_2019/papers/Liu_Semantic-Aware_Knowledge_Preservation_for_Zero-Shot_Sketch-Based_Image_Retrieval_ICCV_2019_paper.pdf" rel="nofollow">[pdf]</a></li>
+  
+  <li> Chi Zhan, Dongyu She, Sicheng Zhao, Ming-Ming Cheng, Jufeng Yang. "Zero-Shot Emotion Recognition via Affective Structural Embedding" 
+  <a href="http://openaccess.thecvf.com/content_ICCV_2019/papers/Zhan_Zero-Shot_Emotion_Recognition_via_Affective_Structural_Embedding_ICCV_2019_paper.pdf" rel="nofollow">[pdf]</a></li>
+  
+  <li> Yizhe Zhu, Jianwen Xie, Bingchen Liu, Ahmed Elgammal. "Learning Feature-to-Feature Translator by Alternating Back-Propagation for Generative Zero-Shot Learning" 
+  <a href="http://openaccess.thecvf.com/content_ICCV_2019/papers/Zhu_Learning_Feature-to-Feature_Translator_by_Alternating_Back-Propagation_for_Generative_Zero-Shot_Learning_ICCV_2019_paper.pdf" rel="nofollow">[pdf]</a></li>
+  
+ 
+  
+</ul> 
+
+<h4><a id="user-content-aaai-2019" class="anchor" aria-hidden="true" href="#iccv-2019"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path>
+  </svg>
+  </a>
+  AAAI 2019
+</h4>
+
+<ul>
+<li> Yuchen Guo, Guiguang Ding, Jungong Han, Xiaohan Ding, Sicheng Zhao, Zheng Wang, Chenggang Yan, Qionghai Dai. "Dual-View Ranking with Hardness Assessment for Zero-Shot Learning" 
+  <a href="https://www.aaai.org/ojs/index.php/AAAI/article/view/4850/4723" rel="nofollow">[pdf]</a></li>
+  
+</ul>  
+
+<h4><a id="user-content-aaai-2019" class="anchor" aria-hidden="true" href="#iccv-2019"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path>
+  </svg>
+  </a>
+  NeurIPS 2019
+</h4>
+
+<ul>
+<li> Paul Micaelli,Amos Storkey. "Zero-shot Knowledge Transfer via Adversarial Belief Matching" 
+  <a href="http://papers.nips.cc/paper/9151-zero-shot-knowledge-transfer-via-adversarial-belief-matching.pdf" rel="nofollow">[pdf]</a></li>
+  
+</ul> 
   
   
   
