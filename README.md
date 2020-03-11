@@ -48,7 +48,32 @@
 <ul>
 <li> Michael Kampffmeyer, Yinbo Chen, Xiaodan Liang, Hao Wang, Yujia Zhang, Eric P. Xing. "Rethinking Knowledge Graph Propagation for Zero-Shot Learning" 
   <a href="http://openaccess.thecvf.com/content_CVPR_2019/papers/Kampffmeyer_Rethinking_Knowledge_Graph_Propagation_for_Zero-Shot_Learning_CVPR_2019_paper.pdf" rel="nofollow">[pdf]</a></li>
-</ul> 
+  
+  <li> Yongqin Xian, Saurabh Sharma, Bernt Schiele, Zeynep Akata. "F-VAEGAN-D2: A Feature Generating Framework for Any-Shot Learning" 
+  <a href="http://openaccess.thecvf.com/content_CVPR_2019/papers/Xian_F-VAEGAN-D2_A_Feature_Generating_Framework_for_Any-Shot_Learning_CVPR_2019_paper.pdf" rel="nofollow">[pdf]</a></li>
+  
+   <li> Pengkai Zhu, Hanxiao Wang, Venkatesh Saligrama. "Generalized Zero-Shot Recognition Based on Visually Semantic Embedding" 
+  <a href="http://openaccess.thecvf.com/content_CVPR_2019/papers/Zhu_Generalized_Zero-Shot_Recognition_Based_on_Visually_Semantic_Embedding_CVPR_2019_paper.pdf" rel="nofollow">[pdf]</a></li>
+  
+  <li> Edgar Schonfeld, Sayna Ebrahimi, Samarth Sinha, Trevor Darrell, Zeynep Akata. "Generalized Zero- and Few-Shot Learning via Aligned Variational Autoencoders" 
+  <a href="http://openaccess.thecvf.com/content_CVPR_2019/papers/Schonfeld_Generalized_Zero-_and_Few-Shot_Learning_via_Aligned_Variational_Autoencoders_CVPR_2019_paper.pdf" rel="nofollow">[pdf]</a></li>
+  
+  <li> Anjan Dutta, Zeynep Akata. "Semantically Tied Paired Cycle Consistency for Zero-Shot Sketch-Based Image Retrieval" 
+  <a href="http://openaccess.thecvf.com/content_CVPR_2019/papers/Dutta_Semantically_Tied_Paired_Cycle_Consistency_for_Zero-Shot_Sketch-Based_Image_Retrieval_CVPR_2019_paper.pdf" rel="nofollow">[pdf]</a></li>
+  
+  <li> Michael Kampffmeyer, Yinbo Chen, Xiaodan Liang, Hao Wang, Yujia Zhang, Eric P. Xing. "Rethinking Knowledge Graph Propagation for Zero-Shot Learning" 
+  <a href="http://openaccess.thecvf.com/content_CVPR_2019/papers/Kampffmeyer_Rethinking_Knowledge_Graph_Propagation_for_Zero-Shot_Learning_CVPR_2019_paper.pdf" rel="nofollow">[pdf]</a></li>
+  
+  <li> Mert Bulent Sariyildiz, Ramazan Gokberk Cinbis. "Gradient Matching Generative Networks for Zero-Shot Learning" 
+  <a href="http://openaccess.thecvf.com/content_CVPR_2019/papers/Sariyildiz_Gradient_Matching_Generative_Networks_for_Zero-Shot_Learning_CVPR_2019_paper.pdf" rel="nofollow">[pdf]</a></li>
+  
+  <li> Xin Wang, Fisher Yu, Ruth Wang, Trevor Darrell, Joseph E. Gonzalez. "TAFE-Net: Task-Aware Feature Embeddings for Low Shot Learning" 
+  <a href="http://openaccess.thecvf.com/content_CVPR_2019/papers/Wang_TAFE-Net_Task-Aware_Feature_Embeddings_for_Low_Shot_Learning_CVPR_2019_paper.pdf" rel="nofollow">[pdf]</a></li>
+  
+ <li> Yaojie Liu, Joel Stehouwer, Amin Jourabloo, Xiaoming Liu. "Deep Tree Learning for Zero-Shot Face Anti-Spoofing" 
+  <a href="http://openaccess.thecvf.com/content_CVPR_2019/papers/Liu_Deep_Tree_Learning_for_Zero-Shot_Face_Anti-Spoofing_CVPR_2019_paper.pdf" rel="nofollow">[pdf]</a></li>
+  
+ </ul> 
   
   
   
