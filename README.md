@@ -39,7 +39,7 @@
   Papers
 </h3>
   
-<h4><a id="user-content-cvpr-2019" class="anchor" aria-hidden="true" href="#neurips-2019"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path>
+<h4><a id="user-content-cvpr-2019" class="anchor" aria-hidden="true" href="#cvpr-2019"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path>
   </svg>
   </a>
   CVPR 2019
@@ -419,3 +419,105 @@
   <a href="https://drive.google.com/file/d/1XPzg7Q_yTKxGRxi8-quz79G1zBi88WJP/view" rel="nofollow">[pdf]</a></li>
 
 </ul>
+
+
+<h4><a id="user-content-cvpr-2017" class="anchor" aria-hidden="true" href="#cvpr-2017"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path>
+  </svg>
+  </a>
+  CVPR 2017
+</h4>  
+
+<ul>
+<li> Elyor Kodirov, Tao Xiang, Shaogang Gong. "Semantic Autoencoder for Zero-Shot Learning" 
+  <a href="http://openaccess.thecvf.com/content_cvpr_2017/papers/Kodirov_Semantic_Autoencoder_for_CVPR_2017_paper.pdf" rel="nofollow">[pdf]</a></li>
+  
+  <li> Yongqin Xian, Bernt Schiele, Zeynep Akata. "Zero-Shot Learning - the Good, the Bad and the Ugly" 
+  <a href="http://openaccess.thecvf.com/content_cvpr_2017/papers/Xian_Zero-Shot_Learning_-_CVPR_2017_paper.pdf" rel="nofollow">[pdf]</a></li>
+  
+  <li> Li Zhang, Tao Xiang, Shaogang Gong. "Learning a Deep Embedding Model for Zero-Shot Learning" 
+  <a href="http://openaccess.thecvf.com/content_cvpr_2017/papers/Zhang_Learning_a_Deep_CVPR_2017_paper.pdf" rel="nofollow">[pdf]</a></li>
+  
+ <li> Yang Long, Li Liu, Ling Shao, Fumin Shen, Guiguang Ding, Jungong Han. "From Zero-Shot Learning to Conventional Supervised Classification: Unseen Visual Data Synthesis" 
+  <a href="http://openaccess.thecvf.com/content_cvpr_2017/papers/Long_From_Zero-Shot_Learning_CVPR_2017_paper.pdf" rel="nofollow">[pdf]</a></li>
+  
+ <li> Pedro Morgado, Nuno Vasconcelos. "Semantically Consistent Regularization for Zero-Shot Recognition" 
+  <a href="http://openaccess.thecvf.com/content_cvpr_2017/papers/Morgado_Semantically_Consistent_Regularization_CVPR_2017_paper.pdf" rel="nofollow">[pdf]</a></li>
+  
+  <li> Xing Xu, Fumin Shen, Yang Yang, Dongxiang Zhang, Heng Tao Shen, Jingkuan Song. "Matrix Tri-Factorization with Manifold Regularizations for Zero-shot Learning" 
+  <a href="http://openaccess.thecvf.com/content_cvpr_2017/papers/Xu_Matrix_Tri-Factorization_With_CVPR_2017_paper.pdf" rel="nofollow">[pdf]</a></li>
+  
+ <li> Yanan Li, Donghui Wang, Huanhang Hu, Yuetan Lin, Yueting Zhuang. "Zero-Shot Recognition Using Dual Visual-Semantic Mapping Paths" 
+  <a href="http://openaccess.thecvf.com/content_cvpr_2017/papers/Li_Zero-Shot_Recognition_Using_CVPR_2017_paper.pdf" rel="nofollow">[pdf]</a></li>
+  
+ <li> Jie Qin, Li Liu, Ling Shao, Fumin Shen, Bingbing Ni, Jiaxin Chen, Yunhong Wang. "Zero-Shot Action Recognition With Error-Correcting Output Codes" 
+  <a href="http://openaccess.thecvf.com/content_cvpr_2017/papers/Qin_Zero-Shot_Action_Recognition_CVPR_2017_paper.pdf" rel="nofollow">[pdf]</a></li>
+
+ <li> Zhengming Ding, Ming Shao, Yun Fu. "Low-Rank Embedded Ensemble Semantic Dictionary for Zero-Shot Learning" 
+  <a href="http://openaccess.thecvf.com/content_cvpr_2017/papers/Ding_Low-Rank_Embedded_Ensemble_CVPR_2017_paper.pdf" rel="nofollow">[pdf]</a></li>
+  
+ <li> Meng Ye, Yuhong Guo. "Zero-Shot Classification With Discriminative Semantic Representation Learning" 
+  <a href="http://openaccess.thecvf.com/content_cvpr_2017/papers/Ye_Zero-Shot_Classification_With_CVPR_2017_paper.pdf" rel="nofollow">[pdf]</a></li>
+ 
+ <li> Nour Karessli, Zeynep Akata, Bernt Schiele, Andreas Bulling. "Gaze Embeddings for Zero-Shot Image Classification" 
+  <a href="http://openaccess.thecvf.com/content_cvpr_2017/papers/Karessli_Gaze_Embeddings_for_CVPR_2017_paper.pdf" rel="nofollow">[pdf]</a></li>
+ 
+ <li> Mohamed Elhoseiny, Yizhe Zhu, Han Zhang, Ahmed Elgammal. "Link the Head to the "Beak": Zero Shot Learning from Noisy Text Description at Part Precision" 
+  <a href="http://zpascal.net/cvpr2017/Elhoseiny_Link_the_Head_CVPR_2017_paper.pdf" rel="nofollow">[pdf]</a></li>
+ 
+  <li> Shay Deutsch, Soheil Kolouri, Kyungnam Kim, Yuri Owechko, Stefano Soatto. "Zero Shot Learning via Multi-Scale Manifold Regularization" 
+  <a href="http://openaccess.thecvf.com/content_cvpr_2017/papers/Deutsch_Zero_Shot_Learning_CVPR_2017_paper.pdf" rel="nofollow">[pdf]</a></li>
+</ul>  
+
+<h4><a id="user-content-iccv-2017" class="anchor" aria-hidden="true" href="#iccv-2017"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path>
+  </svg>
+  </a>
+  ICCV 2017
+</h4>  
+
+<ul>
+<li> Soravit Changpinyo, Wei-Lun Chao, Fei Sha. "Predicting Visual Exemplars of Unseen Classes for Zero-Shot Learning" 
+  <a href="http://openaccess.thecvf.com/content_ICCV_2017/papers/Changpinyo_Predicting_Visual_Exemplars_ICCV_2017_paper.pdf" rel="nofollow">[pdf]</a></li>
+  
+  <li> Maxime Bucher, Stephane Herbin, Frederic Jurie. "Generating Visual Representations for Zero-Shot Classification" 
+  <a href="http://openaccess.thecvf.com/content_ICCV_2017_workshops/papers/w38/Bucher_Generating_Visual_Representations_ICCV_2017_paper.pdf" rel="nofollow">[pdf]</a></li>
+  
+<li> Huajie Jiang, Ruiping Wang, Shiguang Shan, Yi Yang, Xilin Chen. "Learning Discriminative Latent Attributes for Zero-Shot Classification" 
+  <a href="http://openaccess.thecvf.com/content_ICCV_2017/papers/Jiang_Learning_Discriminative_Latent_ICCV_2017_paper.pdf" rel="nofollow">[pdf]</a></li>
+  
+ <li> Berkan Demirel, Ramazan Gokberk Cinbis, Nazli Ikizler-Cinbis. "Attributes2Classname: A Discriminative Model for Attribute-Based Unsupervised Zero-Shot Learning" 
+  <a href="http://openaccess.thecvf.com/content_ICCV_2017/papers/Demirel_Attributes2Classname_A_Discriminative_ICCV_2017_paper.pdf" rel="nofollow">[pdf]</a></li>
+  
+  <li> Pascal Mettes, Cees G. M. Snoek. "Spatial-Aware Object Embeddings for Zero-Shot Localization and Classification of Actions" 
+  <a href="http://openaccess.thecvf.com/content_ICCV_2017/papers/Mettes_Spatial-Aware_Object_Embeddings_ICCV_2017_paper.pdf" rel="nofollow">[pdf]</a></li>
+ 
+  <li> Bo Zhao, Botong Wu, Tianfu Wu, Yizhou Wang. "Zero-Shot Learning Posed as a Missing Data Problem" 
+  <a href="http://openaccess.thecvf.com/content_ICCV_2017_workshops/papers/w38/Zhao_Zero-Shot_Learning_Posed_ICCV_2017_paper.pdf" rel="nofollow">[pdf]</a></li>
+ 
+ </ul>
+ 
+ 
+ 
+ <h4><a id="user-content-aaai-2017" class="anchor" aria-hidden="true" href="#aaai-2017"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path>
+  </svg>
+  </a>
+ AAAI 2017
+</h4>  
+
+<ul>
+<li> Yuchen Guo, Guiguang Ding, Jungong Han, Yue Gao. "Zero-Shot Recognition via Direct Classifier Learning with Transferred Samples and Pseudo Labels" 
+  <a href="https://www.aaai.org/ocs/index.php/AAAI/AAAI17/paper/view/14160/14281" rel="nofollow">[pdf]</a></li>
+ 
+ <li> Chuang Gan, Chen Sun, Ram Nevatia. "DECK: Discovering Event Composition Knowledge from Web Images for Zero-Shot Event Detection and Recounting in Videos" 
+  <a href="https://www.aaai.org/ocs/index.php/AAAI/AAAI17/paper/view/14624/14277" rel="nofollow">[pdf]</a></li>
+  </ul>
+  
+   <h4><a id="user-content-icml-2017" class="anchor" aria-hidden="true" href="#icml-2017"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path>
+  </svg>
+  </a>
+ICML 2017
+</h4>  
+
+<ul>
+<li> N Madapana, J Wachs. "ZSGL: zero shot gestural learning" 
+  <a href="https://dl.acm.org/doi/10.1145/3136755.3136774" rel="nofollow">[pdf]</a></li>
+  </ul>
